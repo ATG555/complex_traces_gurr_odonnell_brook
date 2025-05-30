@@ -1,6 +1,6 @@
 
 
-### Data for paper _'Complex Traces: Using a Complex Adaptive Systems approach to examine morbidity and mortality among 19th Century migrants to South Australia'_ 
+### Data for paper _'Complex Traces: 'Examining morbidity and mortality among 19th Century migrants to South Australia using a Complex Adaptive Systems framework'_
 
 #### Angela Gurr<sup>1</sup>, Matthew Brook O’Donnell<sup>2</sup>, Alan Henry Brook<sup>1</sup>
 
